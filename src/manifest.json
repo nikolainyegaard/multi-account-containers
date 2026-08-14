@@ -32,7 +32,7 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "@testpilot-containers",
+      "id": "@nikolai-containers",
       "strict_min_version": "91.1.0",
       "data_collection_permissions": {
         "required": ["none"]
